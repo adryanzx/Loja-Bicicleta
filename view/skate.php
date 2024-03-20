@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
-  <title>Bicicletas </title>
+  <title>Skate </title>
   <meta name="description" content="Bicicletas elétricas de alta precisão e qualidade,  feitas sob medida para o cliente.">
  
  <link rel="preloud" href="./css/style.css" as="style">
@@ -24,7 +24,6 @@
         <nav aria-label="primaria">
           <ul class="header-menu font-1-m cor-0">
             <li><a href="./bicicletas.html">Bicicletas</a></li>
-            <li><a href="./bicicletas.html">Bicicletas</a></li>
             <li><a href="./skates.html">Skates</a></li>
             <li><a href="./capacetes.html">Capacetes Bike</a></li>
             <li><a href="./seguros.html">Seguros</a></li>
@@ -37,8 +36,8 @@
     <main>
       <div class="titulo-bg">
         <div class="titulo container">
-          <p class="font-2-l-b cor-5">Escolha a melhor para você</p>
-          <h1 class="font-1-xxl co-0" style="color: #fff;">nossas bibicletas<span class="cor-p1">.</span></h1>
+          <p class="font-2-l-b cor-5">Escolha o melhor para você</p>
+          <h1 class="font-1-xxl co-0" style="color: #fff;">nossos skates<span class="cor-p1">.</span></h1>
         </div>
       </div>
  
@@ -48,17 +47,11 @@
           <span class="font-2-m cor-0">R$ 4999</span>
         </div>
         <div class="bicicletas-conteudo">
-          <h2 class="font-1-xl">Nimbus Stark</h2>
+          <h2 class="font-1-xl">skate 1</h2>
           <p class="font-2-s cor-8">A Nimbus Stark é a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
           <ul class="font-1-m cor-8">
-            <li>
-              <img src="./img/icones/eletrica.svg" alt="">
-              Motor Elétrico
-            </li>
-            <li>
-              <img src="./img/icones/carbono.svg" alt="">
-              Fibra de Carbono
-            </li>
+           
+             
             <li>
               <img src="./img/icones/velocidade.svg" alt="">
               50 km/h
@@ -79,17 +72,11 @@
             <span class="font-2-m cor-0">R$ 2499</span>
           </div>
           <div class="bicicletas-conteudo">
-            <h2 class="font-1-xl cor-0">Magic Might</h2>
+            <h2 class="font-1-xl cor-0">skate 2</h2>
             <p class="font-2-s cor-5">A Nimbus Stark é a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
             <ul class="font-1-m cor-5">
-              <li>
-                <img src="./img/icones/eletrica.svg" alt="">
-                Motor Elétrico
-              </li>
-              <li>
-                <img src="./img/icones/carbono.svg" alt="">
-                Fibra de Carbono
-              </li>
+             
+             
               <li>
                 <img src="./img/icones/velocidade.svg" alt="">
                 45 km/h
@@ -110,17 +97,11 @@
           <span class="font-2-m cor-0">R$ 3999</span>
         </div>
         <div class="bicicletas-conteudo">
-          <h2 class="font-1-xl">Nebula Cosmic</h2>
+          <h2 class="font-1-xl">skate 3</h2>
           <p class="font-2-s cor-8">A Nimbus Stark é a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
           <ul class="font-1-m cor-8">
-            <li>
-              <img src="./img/icones/eletrica.svg" alt="">
-              Motor Elétrico
-            </li>
-            <li>
-              <img src="./img/icones/carbono.svg" alt="">
-              Fibra de Carbono
-            </li>
+           
+           
             <li>
               <img src="./img/icones/velocidade.svg" alt="">
               50 km/h
