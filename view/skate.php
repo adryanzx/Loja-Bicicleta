@@ -123,7 +123,7 @@
         <div class="footer-contato">
           <h3 class="font-2-l-b cir-0">Contato</h3>
           <ul class="font-2-m cor-5">
-            <li><a href="tel:+5518999999999">18 99999-9999</a></li>
+            <li><a href="tel:+5518999999999">18 99999-9999 </a></li>
             <li><a href="mailto:contato@.com">contato@.com</a></li>
             <li>Rua adryanjoao, 999 - sumidos</li>
             <li>São Paulo - RJ</li>
