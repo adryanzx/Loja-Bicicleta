@@ -18,13 +18,13 @@
   <header class="header-bg">
     <div class="header container">
       <a href="./">
-        <img src="./img/icones/bike.svg" width="76" height="12" alt="">
+        <img src="../img/icones/bike.svg" width="76" height="12" alt="">
       </a>      
       <nav aria-label="primaria">
         <ul class="header-menu font-1-m cor-0"> 
-          <li><a href="./bicicletas.html">Bicicletas</a></li>
-          <li><a href="./seguros.html">Seguros</a></li>
-          <li><a href="./contato.html">Contato</a></li>
+          <li><a href="../bicicletas.html">Bicicletas</a></li>
+          <li><a href="../seguros.html">Seguros</a></li>
+          <li><a href="../contato.html">Contato</a></li>
         </ul>
       </nav>
     </div>
@@ -38,8 +38,8 @@
         <a class="botao fadeInDown" data-anime="600" href="./bicicletas.html">Escolha a sua</a>
       </div>
       <picture data-anime="800" class="fadeInDown">
-        <source media="(max-width: 800px)" srcset="./img/bicicletas/nimbus.jpg">
-        <img src="./img/fotos/introducao.jpg" width="1280" height="1600" alt="Bicicleta elétrica preta.">
+        <source media="(max-width: 800px)" srcset="../img/bicicletas/nimbus.jpg">
+        <img src="../img/fotos/introducao.jpg" width="1280" height="1600" alt="Bicicleta elétrica preta.">
       </picture>
     </div>
   </main>
@@ -49,22 +49,22 @@
 
     <ul>
       <li>
-        <a href="./bicicletas/magic.html">
-          <img src="./img/bicicletas/magic-home.jpg" width="920" height="1040" alt="Bicicleta preta">
+        <a href="../bicicletas/magic.html">
+          <img src="../img/bicicletas/magic-home.jpg" width="920" height="1040" alt="Bicicleta preta">
           <h3 class="font-1-xl">Magic Might</h3>
           <span class="font-2-m cor-8">R$ 2449</span>
         </a>
       </li>
       <li>
-        <a href="./bicicletas/magic.html">
-          <img src="./img/bicicletas/nimbus-home.jpg" width="920" height="1040" alt="Bicicleta preta">
+        <a href="../bicicletas/magic.html">
+          <img src="../img/bicicletas/nimbus-home.jpg" width="920" height="1040" alt="Bicicleta preta">
           <h3 class="font-1-xl">Nimbus Stark</h3>
           <span class="font-2-m cor-8">R$ 4449</span>
         </a>
       </li>
       <li>
-        <a href="./bicicletas/magic.html">
-          <img src="./img/bicicletas/nebula-home.jpg" width="920" height="1040" alt="Bicicleta preta">
+        <a href="../bicicletas/magic.html">
+          <img src="../img/bicicletas/nebula-home.jpg" width="920" height="1040" alt="Bicicleta preta">
           <h3 class="font-1-xl">Nebula Cosmic</h3>
           <span class="font-2-m cor-8">R$ 3999</span>
         </a>
@@ -82,19 +82,19 @@
 
         <div class="tecnologia-vantagens">
           <div>
-            <img src="./img/icones/eletrica.svg" width="24" height="24" alt="">
+            <img src="../img/icones/eletrica.svg" width="24" height="24" alt="">
             <h3 class="font-1-m cor-0">Motor elétrico</h3>
             <p class="font-2-s cor-5">Toda equipada com um motor elétrico que possui duração de até 120h. A bateria é recarregada com a sua energia gasta ao pedalar.</p>
           </div>
           <div>
-            <img src="./img/icones/rastreador.svg" width="24" height="24" alt="">
+            <img src="../img/icones/rastreador.svg" width="24" height="24" alt="">
             <h3 class="font-1-m cor-0">Rastreador</h3>
             <p class="font-2-s cor-5">Sabemos o quão preciosa é, por isso adicionamos rastreadores e sistemas anti-furto para garantir o seu sossego.</p>
           </div>
         </div>
       </div>
       <div class="tecnologia-imagem">
-        <img src="./img/fotos/tecnologia.jpg" width="1200" height="1920" alt="">
+        <img src="../img/fotos/tecnologia.jpg" width="1200" height="1920" alt="">
       </div>
     </div>
   </article>
@@ -103,20 +103,20 @@
     <h2 class="container font-1-xxl">nossos parceiros<span class="cor-p1">.</span></h2>
 
     <ul>
-      <li><img src="./img/parceiros/caravan.svg" width="140" height="38" alt="Caravan"></li>
-      <li><img src="./img/parceiros/ranek.svg" width="149" height="36" alt="ranek"></li>
-      <li><img src="./img/parceiros/handel.svg" width="139" height="50" alt="handel"></li>
-      <li><img src="./img/parceiros/dogs.svg" width="152" height="39" alt="dogs"></li>
-      <li><img src="./img/parceiros/lescone.svg" width="208" height="41" alt="lescone"></li>
-      <li><img src="./img/parceiros/flexblog.svg" width="165" height="38" alt="flexblog"></li>
-      <li><img src="./img/parceiros/wildbeast.svg" width="196" height="34" alt="wildbeast"></li>
-      <li><img src="./img/parceiros/surfbot.svg" width="200" height="49" alt="surfbot"></li>
+      <li><img src="../img/parceiros/caravan.svg" width="140" height="38" alt="Caravan"></li>
+      <li><img src="../img/parceiros/ranek.svg" width="149" height="36" alt="ranek"></li>
+      <li><img src="../img/parceiros/handel.svg" width="139" height="50" alt="handel"></li>
+      <li><img src="../img/parceiros/dogs.svg" width="152" height="39" alt="dogs"></li>
+      <li><img src="../img/parceiros/lescone.svg" width="208" height="41" alt="lescone"></li>
+      <li><img src="../img/parceiros/flexblog.svg" width="165" height="38" alt="flexblog"></li>
+      <li><img src="../img/parceiros/wildbeast.svg" width="196" height="34" alt="wildbeast"></li>
+      <li><img src="../img/parceiros/surfbot.svg" width="200" height="49" alt="surfbot"></li>
     </ul>
   </section>
 
  <section class="depoimento" aria-label="Depoimento">
     <div>
-      <img src="./img/fotos/depoimento.jpg" width="1560" height="1360" alt="Pessoa pedalando uma bicicleta Bikcraft">
+      <img src="../img/fotos/depoimento.jpg" width="1560" height="1360" alt="Pessoa pedalando uma bicicleta Bikcraft">
     </div>
     <div class="depoimento-conteudo">
       <blockquote class="font-1-xl cor-p5">
@@ -126,36 +126,7 @@
     </div>
   </section>
 
-   <article class="seguros-bg">
-    <div class="seguros container">
-      <h2 class="font-1-xxl cor-0">seguros<span class="cor-p1">.</span></h2>
-      <div class="seguros-item">
-        <h3 class="font-1-xl cor-6">PRATA</h3>
-        <span class="font-1-xl cor-0">R$ 199,00 <span class="font-1-xs cor-6">mensal</span></span>
-        <ul class="font-2-m cor-0">
-          <li>Duas trocas por ano</li>
-          <li>Assistência técnica</li>
-          <li>Suporte 08h às 18h</li>
-          <li>Cobertura estadual</li>
-        </ul>
-        <a class="botao secundario" href="./orcamento.html?tipo=seguro&produto=prata">Inscreva-se</a>
-      </div>
-
-      <div class="seguros-item">
-        <h3 class="font-1-xl cor-p1">OURO</h3>
-        <span class="font-1-xl cor-0">R$ 299,00 <span class="font-1-xs cor-6">mensal</span></span>
-        <ul class="font-2-m cor-0">
-          <li>Cinco trocas por ano</li>
-          <li>Assistência especial</li>
-          <li>Suporte 24h</li>
-          <li>Cobertura nacional</li>
-          <li>Desconto em parceiros</li>
-          <li>Acesso ao Clube</li>
-        </ul>
-        <a class="botao" href="./orcamento.html?tipo=seguro&produto=ouro">Inscreva-se</a>
-      </div>
-    </div>
-  </article>
+   
 
   <footer class="footer-bg">
     <div class="footer container">
@@ -170,9 +141,9 @@
           <li>São Paulo - RJ</li>
         </ul>
         <div class="footer-redes">
-          <a href="./"><img src="./img/redes/instagram.svg" width="32" height="32" alt="Instagram"></a>
-          <a href="./"><img src="./img/redes/facebook.svg" width="32" height="32" alt="Facebook"></a>
-          <a href="./"><img src="./img/redes/youtube.svg" width="32" height="32" alt="Youtube"></a>
+          <a href="./"><img src="../img/redes/instagram.svg" width="32" height="32" alt="Instagram"></a>
+          <a href="./"><img src="../img/redes/facebook.svg" width="32" height="32" alt="Facebook"></a>
+          <a href="./"><img src="../img/redes/youtube.svg" width="32" height="32" alt="Youtube"></a>
         </div>
       </div>
       <div class="footer-informacoes">
@@ -190,7 +161,7 @@
     </div>
   </footer>
 
-  <script src="./js/plugins/simple-anime.js"></script>
-  <script src="./js/script.js"></script>
+  <script src="../js/plugins/simple-anime.js"></script>
+  <script src="../js/script.js"></script>
 </body>
 </html>
