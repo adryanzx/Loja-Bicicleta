@@ -8,9 +8,9 @@
   <title> Bicicletas Elétricas</title>
   <meta name="description" content="Bicicletas elétricas de alta precisão e qualidade,  feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft.">
 
-  <link rel="preloud" href="./css/style.css" as="style">
- <link rel="preloud" href="./css/style.css" as="style">
-  <link rel="stylesheet" href="./css/style.css">  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preloud" href="../css/style.css" as="style">
+ <link rel="preloud" href="../css/style.css" as="style">
+  <link rel="stylesheet" href="../css/style.css">  <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
 </head>
