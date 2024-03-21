@@ -21,8 +21,8 @@
       <nav aria-label="primaria">
         <ul class="header-menu font-1-m cor-0">
           <li><a href="./bicicletas.php">Bicicletas</a></li>
-          <li><a href="./skates.php">Skates</a></li>
-            <li><a href="./capacetes.php">Capacetes Bike</a></li>
+          <li><a href="./skate.php">Skates</a></li>
+            <li><a href="./capacete.php">Capacetes Bike</a></li>
           <li><a href="./contato.php">Contato</a></li>
         </ul>
       </nav>
