@@ -50,21 +50,21 @@
 
     <ul>
       <li>
-        <a href="./magic.php">
+        <a href="./bicicletas/magic.php">
           <img src="../img/bicicletas/magic-home.jpg" width="920" height="1040" alt="Bicicleta preta">
           <h3 class="font-1-xl">Magic Might</h3>
           <span class="font-2-m cor-8">R$ 2449</span>
         </a>
       </li>
       <li>
-        <a href="./nimbus.php">
+        <a href="./bicicletas/nimbus.php">
           <img src="../img/bicicletas/nimbus-home.jpg" width="920" height="1040" alt="Bicicleta preta">
           <h3 class="font-1-xl">Nimbus Stark</h3>
           <span class="font-2-m cor-8">R$ 4449</span>
         </a>
       </li>
       <li>
-        <a href="./nebula.php">
+        <a href="./bicicletas/nebula.php">
           <img src="../img/bicicletas/nebula-home.jpg" width="920" height="1040" alt="Bicicleta preta">
           <h3 class="font-1-xl">Nebula Cosmic</h3>
           <span class="font-2-m cor-8">R$ 3999</span>
@@ -78,21 +78,21 @@
 
     <ul>
       <li>
-        <a href="./skate1.php">
+        <a href="./skates/skate1.php">
           <img src="../img/skate/skate1.jpg" width="920" height="1040" alt="skt">
           <h3 class="font-1-xl">Skate Street</h3>
           <span class="font-2-m cor-8">R$ 99</span>
         </a>
       </li>
       <li>
-        <a href="./skate2.php">
+        <a href="./skates/skate2.php">
           <img src="../img/skate/skate2.jpg" width="920" height="1040" alt="skt">
           <h3 class="font-1-xl">Skate AJB</h3>
           <span class="font-2-m cor-8">R$ 49</span>
         </a>
       </li>
       <li>
-        <a href="./skate3.php">
+        <a href="./skates/skate3.php">
           <img src="../img/skate/skate3.jpg" width="920" height="1040" alt="skt">
           <h3 class="font-1-xl">Skate WaveBoard</h3>
           <span class="font-2-m cor-8">R$ 39</span>

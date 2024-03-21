@@ -80,14 +80,14 @@
 
     <ul>
       <li>
-        <a href="./skate2.php">
+        <a href="./skates/skate2.php">
           <img src="../img/skate/skate2.jpg" alt="Bicicleta preta">
           <h3 class="font-1-xl">Skate AJB</h3>
           <span class="font-2-m cor-8">R$ 49</span>
         </a>
       </li>
       <li>
-        <a href="./skate3.php">
+        <a href="./skates/skate3.php">
           <img src="../img/skate/skate3.jpg" alt="Bicicleta preta">
           <h3 class="font-1-xl">Skate WaveBoard</h3>
           <span class="font-2-m cor-8">R$ 39</span>

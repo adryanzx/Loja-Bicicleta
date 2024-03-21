@@ -92,14 +92,14 @@
 
     <ul>
       <li>
-        <a href="./magic.php">
+        <a href="./bicicletas/magic.php">
           <img src="../img/bicicletas/magic.jpg" alt="Bicicleta preta">
           <h3 class="font-1-xl">Magic Might</h3>
           <span class="font-2-m cor-8">R$ 2449</span>
         </a>
       </li>
       <li>
-        <a href="./nebula.php">
+        <a href="./bicicletas/nebula.php">
           <img src="../img/bicicletas/nebula.jpg" alt="Bicicleta preta">
           <h3 class="font-1-xl">Nebula Cosmic</h3>
           <span class="font-2-m cor-8">R$ 3999</span>
