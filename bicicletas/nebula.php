@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Nebula | Bikcraft</title>
+  <title>Nebula </title>
   <meta name="description" content="Termos e condições.">
 
   <link rel="stylesheet" href="../css/style.css">
