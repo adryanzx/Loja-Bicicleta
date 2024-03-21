@@ -25,7 +25,7 @@
           <li><a href="./bicicletas.php">Bicicletas</a></li>
           <li><a href="./skates.php">Skates</a></li>
             <li><a href="./capacetes.php">Capacetes Bike</a></li>
-          <li><a href="../contato.php">Contato</a></li>
+          <li><a href="./contato.php">Contato</a></li>
         </ul>
       </nav>
     </div>
