@@ -60,7 +60,7 @@
               Rastreador
             </li>
           </ul>
-          <a class="botao seta" href="./skates/skate1.php">Mais sobre</a>
+          <a class="botao seta" href="./skate1.php">Mais sobre</a>
         </div>
       </div>
  
@@ -85,7 +85,7 @@
                 Rastreador
               </li>
             </ul>
-            <a class="botao seta" href="./skates/skate2.php">Mais sobre</a>
+            <a class="botao seta" href="./skate2.php">Mais sobre</a>
           </div>
         </div>
       </div>
@@ -110,7 +110,7 @@
               Rastreador
             </li>
           </ul>
-          <a class="botao seta" href="./skates/skate3.php">Mais sobre</a>
+          <a class="botao seta" href="./skate3.php">Mais sobre</a>
         </div>
       </div>
     </main>

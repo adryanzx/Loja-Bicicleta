@@ -66,7 +66,7 @@
               Rastreador
             </li>
           </ul>
-          <a class="botao seta" href="./bicicletas/nimbus.php">Mais sobre</a>
+          <a class="botao seta" href="./nimbus.php">Mais sobre</a>
         </div>
       </div>
  
@@ -97,7 +97,7 @@
                 Rastreador
               </li>
             </ul>
-            <a class="botao seta" href="../bicicletas/magic.php">Mais sobre</a>
+            <a class="botao seta" href="./magic.php">Mais sobre</a>
           </div>
         </div>
       </div>
@@ -128,7 +128,7 @@
               Rastreador
             </li>
           </ul>
-          <a class="botao seta" href="../bicicletas/nebula.php">Mais sobre</a>
+          <a class="botao seta" href="./nebula.php">Mais sobre</a>
         </div>
       </div>
     </main>

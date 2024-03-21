@@ -99,7 +99,7 @@
         </a>
       </li>
       <li>
-        <a href="./magic.php">
+        <a href="./nebula.php">
           <img src="../img/bicicletas/nebula.jpg" alt="Bicicleta preta">
           <h3 class="font-1-xl">Nebula Cosmic</h3>
           <span class="font-2-m cor-8">R$ 3999</span>

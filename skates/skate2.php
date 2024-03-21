@@ -79,14 +79,14 @@
 
     <ul>
       <li>
-        <a href="./magic.html">
+        <a href="./skate3.php">
           <img src="../img/skate/skate2.jpg" alt="Bicicleta preta">
           <h3 class="font-1-xl">Skate WaveBoard</h3>
           <span class="font-2-m cor-8">R$ 39</span>
         </a>
       </li>
       <li>
-        <a href="./magic.html">
+        <a href="./skate1.php">
           <img src="../img/skate/skate1.jpg" alt="Bicicleta preta">
           <h3 class="font-1-xl">Skate Street</h3>
           <span class="font-2-m cor-8">R$ 99</span>
