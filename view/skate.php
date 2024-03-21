@@ -1,4 +1,4 @@
-[16:22] ADRYAN FREIRE OLIVEIRA
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -7,10 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
   <title>Skate </title>
-  <meta name="description" content="Bicicletas elétricas de alta precisão e qualidade,  feitas sob medida para o cliente.">
+  <meta name="description" content="skate de alta precisão e qualidade,  feitas sob medida para o cliente.">
  
- <link rel="preloud" href="./css/style.css" as="style">
-  <link rel="stylesheet" href="./css/style.css">  
+ <link rel="preloud" href="../css/style.css" as="style">
+  <link rel="stylesheet" href="../css/style.css">  
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
@@ -23,11 +23,10 @@
         </a>      
         <nav aria-label="primaria">
           <ul class="header-menu font-1-m cor-0">
-            <li><a href="./bicicletas.html">Bicicletas</a></li>
-            <li><a href="./skates.html">Skates</a></li>
-            <li><a href="./capacetes.html">Capacetes Bike</a></li>
-            <li><a href="./seguros.html">Seguros</a></li>
-            <li><a href="./contato.html">Contato</a></li>
+            <li><a href="./bicicletas.php">Bicicletas</a></li>
+            <li><a href="./skates.php">Skates</a></li>
+            <li><a href="./capacetes.php">Capacetes Bike</a></li>
+            <li><a href="./contato.php">Contato</a></li>
           </ul>
         </nav>
       </div>
@@ -43,75 +42,75 @@
  
       <div class="bicicletas container">
         <div class="bicicletas-imagem">
-          <img src="./img/bicicletas/nimbus.jpg" alt="Bicicleta preta">
-          <span class="font-2-m cor-0">R$ 4999</span>
+          <img src="../img/skate/skate1.jpg" alt="skt">
+          <span class="font-2-m cor-0">R$ 99</span>
         </div>
         <div class="bicicletas-conteudo">
-          <h2 class="font-1-xl">skate 1</h2>
-          <p class="font-2-s cor-8">A Nimbus Stark é a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
+          <h2 class="font-1-xl">Skate Street </h2>
+          <p class="font-2-s cor-8">É a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
           <ul class="font-1-m cor-8">
            
              
             <li>
-              <img src="./img/icones/velocidade.svg" alt="">
+              <img src="../img/icones/velocidade.svg" alt="">
               50 km/h
             </li>
             <li>
-              <img src="./img/icones/rastreador.svg" alt="">
+              <img src="../img/icones/rastreador.svg" alt="">
               Rastreador
             </li>
           </ul>
-          <a class="botao seta" href="./bicicletas/nimbus.html">Mais sobre</a>
+          <a class="botao seta" href="./skates/skate1.php">Mais sobre</a>
         </div>
       </div>
  
       <div class="bicicletas-bg">
         <div class="bicicletas container">
           <div class="bicicletas-imagem">
-            <img src="./img/bicicletas/magic.jpg" alt="Bicicleta preta">
-            <span class="font-2-m cor-0">R$ 2499</span>
+            <img src="../img/skate/skate2.jpg" alt="skt">
+            <span class="font-2-m cor-0">R$ 49</span>
           </div>
           <div class="bicicletas-conteudo">
-            <h2 class="font-1-xl cor-0">skate 2</h2>
-            <p class="font-2-s cor-5">A Nimbus Stark é a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
+            <h2 class="font-1-xl cor-0">Skate AJB</h2>
+            <p class="font-2-s cor-5">É a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
             <ul class="font-1-m cor-5">
              
              
               <li>
-                <img src="./img/icones/velocidade.svg" alt="">
+                <img src="../img/icones/velocidade.svg" alt="">
                 45 km/h
               </li>
               <li>
-                <img src="./img/icones/rastreador.svg" alt="">
+                <img src="../img/icones/rastreador.svg" alt="">
                 Rastreador
               </li>
             </ul>
-            <a class="botao seta" href="./bicicletas/magic.html">Mais sobre</a>
+            <a class="botao seta" href="./skates/skate2.php">Mais sobre</a>
           </div>
         </div>
       </div>
  
       <div class="bicicletas container">
         <div class="bicicletas-imagem">
-          <img src="./img/bicicletas/nebula.jpg" alt="Bicicleta preta">
-          <span class="font-2-m cor-0">R$ 3999</span>
+          <img src="../img/skate/skate3.jpg" alt="skt">
+          <span class="font-2-m cor-0">R$ 39</span>
         </div>
         <div class="bicicletas-conteudo">
-          <h2 class="font-1-xl">skate 3</h2>
-          <p class="font-2-s cor-8">A Nimbus Stark é a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
+          <h2 class="font-1-xl">Skate WaveBoard</h2>
+          <p class="font-2-s cor-8">É a melhor já criada pela nossa equipe. Ela vem equipada com os melhores acessórios, o que garante maior velocidade.</p>
           <ul class="font-1-m cor-8">
            
            
             <li>
-              <img src="./img/icones/velocidade.svg" alt="">
+              <img src="../img/icones/velocidade.svg" alt="">
               50 km/h
             </li>
             <li>
-              <img src="./img/icones/rastreador.svg" alt="">
+              <img src="../img/icones/rastreador.svg" alt="">
               Rastreador
             </li>
           </ul>
-          <a class="botao seta" href="./bicicletas/nebula.html">Mais sobre</a>
+          <a class="botao seta" href="./skates/skate3.php">Mais sobre</a>
         </div>
       </div>
     </main>
@@ -129,9 +128,9 @@
             <li>São Paulo - RJ</li>
           </ul>
           <div class="footer-redes">
-            <a href="./"><img src="./img/redes/instagram.svg" alt="Instagram"></a>
-            <a href="./"><img src="./img/redes/facebook.svg" alt="Facebook"></a>
-            <a href="./"><img src="./img/redes/youtube.svg" alt="Youtube"></a>
+            <a href="../"><img src="../img/redes/instagram.svg" alt="Instagram"></a>
+            <a href="../"><img src="../img/redes/facebook.svg" alt="Facebook"></a>
+            <a href="../"><img src="../img/redes/youtube.svg" alt="Youtube"></a>
           </div>
         </div>
         <div class="footer-informacoes">
@@ -148,6 +147,6 @@
         <p class="footer-copy font-2-m cor-6">Adryan & Joao - Alguns direitos reservados.</p>
       </div>
     </footer>
-   <script src="./js/script.js"></script>
+   <script src="../js/script.js"></script>
 </body>
 </html>

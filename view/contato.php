@@ -8,7 +8,7 @@
   <title>Contato</title>
   <meta name="description" content="Termos e condições.">
 
-  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body id="contato">
@@ -20,9 +20,10 @@
 
       <nav aria-label="primaria">
         <ul class="header-menu font-1-m cor-0">
-          <li><a href="./bicicletas.html">Bicicletas</a></li>
-          <li><a href="./seguros.html">Seguros</a></li>
-          <li><a href="./contato.html">Contato</a></li>
+          <li><a href="./bicicletas.php">Bicicletas</a></li>
+          <li><a href="./skates.php">Skates</a></li>
+            <li><a href="./capacetes.php">Capacetes Bike</a></li>
+          <li><a href="./contato.php">Contato</a></li>
         </ul>
       </nav>
     </div>
@@ -51,19 +52,19 @@
         </address>
         <div class="contato-redes">
           <a href="./">
-            <img src="./img/redes/instagram-p.svg" alt="Instagram">
+            <img src="../img/redes/instagram-p.svg" alt="Instagram">
           </a>
           <a href="./">
-            <img src="./img/redes/facebook-p.svg" alt="Facebook">
+            <img src="../img/redes/facebook-p.svg" alt="Facebook">
           </a>
           <a href="./">
-            <img src="./img/redes/youtube-p.svg" alt="Youtube">
+            <img src="../img/redes/youtube-p.svg" alt="Youtube">
           </a>
         </div>
       </section>
 
       <section class="contato-formulario" aria-label="Formulário">
-        <form action="./contato.html" class="form">
+        <form action="./contato.php" class="form">
           <div>
             <label for="nome">Nome</label>
             <input type="text" id="nome" name="nome" placeholder="Seu nome">
@@ -134,13 +135,13 @@
         </ul>
         <div class="footer-redes">
           <a href="./">
-            <img src="./img/redes/instagram.svg" alt="Instagram">
+            <img src="../img/redes/instagram.svg" alt="Instagram">
           </a>
           <a href="./">
-            <img src="./img/redes/facebook.svg" alt="Facebook">
+            <img src="../img/redes/facebook.svg" alt="Facebook">
           </a>
           <a href="./">
-            <img src="./img/redes/youtube.svg" alt="Youtube">
+            <img src="../img/redes/youtube.svg" alt="Youtube">
           </a>
         </div>
       </div>
@@ -151,14 +152,13 @@
             <li><a href="./bicicletas.html">Bicicletas</a></li>
             <li><a href="./seguros.html">Seguros</a></li>
             <li><a href="./contato.html">Contato</a></li>
-            <li><a href="./termos.html">Termos e Condições</a></li>
           </ul>
         </nav>
       </div>
       <p class="footer-copy font-2-m cor-6">Adryan & Joao © Alguns direitos reservados.</p>
     </div>
   </footer>
- <script src="./js/script.js"></script>
+ <script src="../js/script.js"></script>
 </body>
 
 </html>

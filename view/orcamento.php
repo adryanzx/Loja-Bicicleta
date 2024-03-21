@@ -8,7 +8,7 @@
   <title>Orçamento</title>
   <meta name="description" content="Orçamento.">
 
-  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body id="orcamento">
@@ -20,9 +20,10 @@
 
       <nav aria-label="primaria">
         <ul class="header-menu font-1-m cor-0">
-          <li><a href="./bicicletas.html">Bicicletas</a></li>
-          <li><a href="./seguros.html">Seguros</a></li>
-          <li><a href="./contato.html">Contato</a></li>
+          <li><a href="./bicicletas.php">Bicicletas</a></li>
+          <li><a href="./skates.php">Skates</a></li>
+            <li><a href="./capacetes.php">Capacetes Bike</a></li>
+          <li><a href="./contato.php">Contato</a></li>
         </ul>
       </nav>
     </div>
@@ -38,15 +39,18 @@
 
     <form action="./" class="orcamento container">
       <div class="orcamento-produto">
-        <h2 class="font-1-xs cor-5">Bicicletas ou Seguro?</h2>
+        <h2 class="font-1-xs cor-5">Bicicleta, Capacete ou Skate</h2>
 
-        <input type="radio" name="tipo" value="bikcraft" id="bikcraft">
-        <label for="bikcraft">Bicicletas</label>
+        <input type="radio" name="tipo" value="bike" id="bike">
+        <label for="bike">Bicicletas</label>
 
-        <input type="radio" name="tipo" value="seguro" id="seguro">
-        <label for="seguro">Seguro</label>
+        <input type="radio" name="tipo" value="capacete" id="capacete">
+        <label for="capacete">Capacetes</label>
 
-        <div class="orcamento-conteudo" id="orcamento-bikcraft">
+        <input type="radio" name="tipo" value="skate" id="skate">
+        <label for="skate">Skates</label>
+
+        <div class="orcamento-conteudo" id="orcamento">
           <h2 class="font-1-xs cor-5">Escolha a sua</h2>
 
           <input type="radio" name="produto" value="nimbus" id="nimbus">
@@ -186,7 +190,7 @@
       <p class="footer-copy font-2-m cor-6">Adryan & Joao © Alguns direitos reservados.</p>
     </div>
   </footer>
- <script src="./js/script.js"></script>
+ <script src="../js/script.js"></script>
 </body>
 
 </html>

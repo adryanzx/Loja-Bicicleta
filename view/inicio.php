@@ -22,9 +22,10 @@
       </a>      
       <nav aria-label="primaria">
         <ul class="header-menu font-1-m cor-0"> 
-          <li><a href="../bicicletas.html">Bicicletas</a></li>
-          <li><a href="../seguros.html">Seguros</a></li>
-          <li><a href="../contato.html">Contato</a></li>
+          <li><a href="./bicicletas.php">Bicicletas</a></li>
+          <li><a href="./skates.php">Skates</a></li>
+            <li><a href="./capacetes.php">Capacetes Bike</a></li>
+          <li><a href="../contato.php">Contato</a></li>
         </ul>
       </nav>
     </div>
@@ -35,7 +36,7 @@
       <div class="introducao-conteudo">
         <h1 class="font-1-xxl cor-0 fadeInDown" data-anime="200">Bicicletas feitas sob medida<span class="cor-p1">.</span></h1>
         <p class="font-2-l cor-5 fadeInDown" data-anime="400">Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para você. Explore o mundo na sua velocidade.</p>
-        <a class="botao fadeInDown" data-anime="600" href="./bicicletas.html">Escolha a sua</a>
+        <a class="botao fadeInDown" data-anime="600" href="./bicicletas.php">Escolha a sua</a>
       </div>
       <picture data-anime="800" class="fadeInDown">
         <source media="(max-width: 800px)" srcset="../img/bicicletas/nimbus.jpg">
@@ -72,13 +73,41 @@
     </ul>
   </article>
 
+  <article class="bicicletas-lista">
+    <h2 class="container font-1-xxl">escolha o seu <span class="cor-p1">.</span></h2>
+
+    <ul>
+      <li>
+        <a href="../bicicletas/magic.html">
+          <img src="../img/skate/skate1.jpg" width="920" height="1040" alt="skt">
+          <h3 class="font-1-xl">Skate Street</h3>
+          <span class="font-2-m cor-8">R$ 99</span>
+        </a>
+      </li>
+      <li>
+        <a href="../bicicletas/magic.html">
+          <img src="../img/skate/skate2.jpg" width="920" height="1040" alt="skt">
+          <h3 class="font-1-xl">Skate AJB</h3>
+          <span class="font-2-m cor-8">R$ 49</span>
+        </a>
+      </li>
+      <li>
+        <a href="../bicicletas/magic.html">
+          <img src="../img/skate/skate3.jpg" width="920" height="1040" alt="skt">
+          <h3 class="font-1-xl">Skate WaveBoard</h3>
+          <span class="font-2-m cor-8">R$ 39</span>
+        </a>
+      </li>
+    </ul>
+  </article>
+
   <article class="tecnologia-bg">
     <div class="tecnologia container">
       <div class="tecnologia-conteudo">
         <span class="font-2-l-b cor-5">Tecnologia Avançada</span>
         <h2 class="font-1-xxl cor-0">você escolhe as suas cores e componentes <span class="cor-p1">.</span></h2>
         <p class="font-2-l cor-5">Cada é única e possui a sua identidade. As medidas serão exatas para o seu corpo e altura, garantindo maior conforto e ergonomia na sua pedalada. Você pode também personalizar completamente as suas cores.</p>
-        <a class="link" href="./bibicletas.html">Escolha um modelo</a>
+        <a class="link" href="./bibicletas.php">Escolha um modelo</a>
 
         <div class="tecnologia-vantagens">
           <div>
@@ -153,7 +182,6 @@
             <li><a href="./bicicletas.html">Bicicletas</a></li>
             <li><a href="./seguros.html">Seguros</a></li>
             <li><a href="./contato.html">Contato</a></li>
-            <li><a href="./termos.html">Termos e Condições</a></li>
           </ul>
         </nav>
       </div>
