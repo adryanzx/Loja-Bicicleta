@@ -3,20 +3,35 @@
 session_start();
 require_once("../controller/Controlador.php");
 require_once("../model/Cliente.php");
+require_once("../model/BancoDeDados.php");
 
 $controlador = new Controlador();
 
-if(isset($_POST['inputEmailLog']) && isset($_POST['inputSenhaLog'])){
-
-    $_SESSION['estaLogado'] = TRUE;
+if (isset($_POST['inputEmailLog']) && isset($_POST['inputSenhaLog'])) {
     $email = $_POST['inputEmailLog'];
     $senha = $_POST['inputSenhaLog'];
 
-    //echo "Email: " . $email . "Senha: " . $senha;
-    header('Location:../view/inicio.php');
-    die();
-} 
+    $bancoDeDados = new BancoDeDados("localhost", "root", "", "bicicleta");
+    $conexao = $bancoDeDados->conectarBD();
 
+    $consulta = "SELECT * FROM cliente WHERE email = '$email'";
+    $resultado = mysqli_query($conexao, $consulta);
+
+    if ($resultado && mysqli_num_rows($resultado) == 1) {
+        $cliente = mysqli_fetch_assoc($resultado);
+        $senhaArmazenada = $cliente['senha'];
+
+        if ($senha === $senhaArmazenada) {
+            $_SESSION['estaLogado'] = true;
+            header('Location:../view/inicio.php');
+            exit();
+        } else {
+            echo "Senha incorreta!";
+        }
+    } else {
+        echo "Usuário não encontrado!";
+    }
+}
 
 //Cadastro de Cliente
 if(isset($_POST['inputNome']) && 

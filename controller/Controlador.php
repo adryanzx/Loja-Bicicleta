@@ -14,7 +14,6 @@ class Controlador{
     }
 
     public function cadastrarCliente($nome, $email, $cpf, $senha){
-
         $cliente = new Cliente($nome,$email,$cpf,$senha);
         $this->bancoDeDados->inserirCliente($cliente);
     }
