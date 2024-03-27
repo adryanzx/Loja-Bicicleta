@@ -14,9 +14,9 @@
 <body id="contato">
   <header class="header-bg">
     <div class="header container">
-      <a href="./">
-        <img src="./img/" alt="">
-      </a>
+    <a href="./inicio.php">
+        <img src="../img/icones/bike.svg" width="76" height="12" alt="">
+      </a> 
 
       <nav aria-label="primaria">
         <ul class="header-menu font-1-m cor-0">

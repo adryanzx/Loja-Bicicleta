@@ -18,9 +18,9 @@
   <body id="bicicletas">
     <header class="header-bg">
       <div class="header container">
-        <a href="./">
-          <img src="./img/" alt="">
-        </a>      
+      <a href="./inicio.php">
+        <img src="../img/icones/bike.svg" width="76" height="12" alt="">
+      </a>       
         <nav aria-label="primaria">
           <ul class="header-menu font-1-m cor-0">
             <li><a href="./bicicletas.php">Bicicletas</a></li>
@@ -66,7 +66,7 @@
               Rastreador
             </li>
           </ul>
-          <a class="botao seta" href="./bicicletas/nimbus.php">Mais sobre</a>
+          <a class="botao seta" href="./nimbus.php">Mais sobre</a>
         </div>
       </div>
  
@@ -97,7 +97,7 @@
                 Rastreador
               </li>
             </ul>
-            <a class="botao seta" href="./bicicletas/magic.php">Mais sobre</a>
+            <a class="botao seta" href="./magic.php">Mais sobre</a>
           </div>
         </div>
       </div>
@@ -128,7 +128,7 @@
               Rastreador
             </li>
           </ul>
-          <a class="botao seta" href="./bicicletas/nebula.php">Mais sobre</a>
+          <a class="botao seta" href="./nebula.php">Mais sobre</a>
         </div>
       </div>
     </main>

@@ -6,7 +6,6 @@ require_once("../model/Cliente.php");
 
 $controlador = new Controlador();
 
-//Login
 if(isset($_POST['inputEmailLog']) && isset($_POST['inputSenhaLog'])){
 
     $_SESSION['estaLogado'] = TRUE;
@@ -16,11 +15,12 @@ if(isset($_POST['inputEmailLog']) && isset($_POST['inputSenhaLog'])){
     //echo "Email: " . $email . "Senha: " . $senha;
     header('Location:../view/inicio.php');
     die();
-}
+} 
+
 
 //Cadastro de Cliente
 if(isset($_POST['inputNome']) && 
-   isset($_POST['inputCPF'])  && isset($_POST['inputEmail']) &&
+   isset($_POST['inputEmail'])  && isset($_POST['inputCPF']) &&
    isset($_POST['inputSenha'])){
 
     $nome = $_POST['inputNome'];
@@ -28,7 +28,7 @@ if(isset($_POST['inputNome']) &&
     $cpf = $_POST['inputCPF'];  
     $senha = $_POST['inputSenha'];
     
-    $controlador->cadastrarCliente($nome, $cpf, $email, $senha);
+    $controlador->cadastrarCliente($nome, $email, $cpf, $senha);
 
     header('Location:../view/login.php');
     die();
